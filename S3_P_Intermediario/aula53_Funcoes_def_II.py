@@ -1,0 +1,21 @@
+
+"""
+def divisao (n1, n2):
+    if n2 == 0:
+        return
+
+    return n1 / n2
+
+divide = divisao(8,3)
+
+if divide:
+    print(divide)
+else:
+    print('Conta invalida. ')
+
+"""
+
+
+def dumb():
+    return 1
+print(dumb(), type(dumb()))
